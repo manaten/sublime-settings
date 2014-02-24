@@ -1,0 +1,34 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Apache Pig",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"converttoutf8",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"DocBlockr",
+		"HTML5",
+		"IMESupport",
+		"Jade",
+		"LineEndings",
+		"LiveReload",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"Smarty",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
+		"SyncedSideBar",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"Volt"
+	]
+}
