@@ -1,7 +1,0 @@
-{
-    "google_cse": {
-        "developer_key": "{yourAPIKey}",
-        // SublimeInternetSearch public Google Custom Search Engine identifier
-        "engine_id": "003214559008085120238:jvdgt7ubdja"
-    }
-}
