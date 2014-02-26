@@ -22,7 +22,7 @@
                 "@disable": false,
                 "args": [],
                 "excludes": [],
-                "rulesets": "controversial,design,unusedcode"
+                "rulesets": "design,unusedcode"
             }
         },
         "mark_style": "outline",
