@@ -20,6 +20,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Smarty",
+		"SublimeHighlight",
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
@@ -29,5 +30,9 @@
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
 		"Volt"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
 	]
 }
