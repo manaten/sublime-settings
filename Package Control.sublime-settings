@@ -6,6 +6,7 @@
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Browser Refresh",
+		"Clickable URLs",
 		"ConvertToUTF8",
 		"CSS Snippets",
 		"DocBlockr",
@@ -15,6 +16,7 @@
 		"LineEndings",
 		"LiveReload",
 		"nginx",
+		"Open URL",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
@@ -29,6 +31,7 @@
 		"Theme - Phoenix",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
+		"URLEncode",
 		"Volt"
 	],
 	"repositories":
