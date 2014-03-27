@@ -30,5 +30,8 @@
 	"show_line_endings": true,
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+
+	"draw_indent_guides": true,
+	"indent_guide_options": ["draw_normal", "draw_active"]
 }
