@@ -3,6 +3,7 @@
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_slow_plugins": false,
+	"draw_indent_guides": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -10,12 +11,17 @@
 	"find_selected_text": false,
 	"fold_buttons": true,
 	"font_face": "consolas",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"line_numbers": true,
 	"move_to_limit_on_up_down": true,
@@ -30,8 +36,5 @@
 	"show_line_endings": true,
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-
-	"draw_indent_guides": true,
-	"indent_guide_options": ["draw_normal", "draw_active"]
+	"trim_trailing_white_space_on_save": true
 }
